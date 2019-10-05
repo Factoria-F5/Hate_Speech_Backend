@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hate-speach",
+  "private_key_id": "7e55dc8ba7b41eb120b05e07255e6f64e5ecfcf1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuGEp+T66qX9LQ\nJtdaSN+GZNOFqGtEDgMehRSYhfPMwrqLA9xWq6bpBatYm+NKyNH6OEC8gI71uGMD\n6Veumj6mDR2iDKiSXOAw1FAqjWf3PxXNbFkZvIlem2YouijrxyXicvJsZHNhBO2w\nr6j1uz+jldBOyHRUZYqX8sTvTmhDt8cuFIWaFZSnU9olgEQFyAnVtcpDhSH2M4KR\nTpoDVgbvK4jAoDVO8ESZEoDspKdk4WrK5YmhSgQFyRStKkFfIyh2mUwuL8dIWjaO\nEXaUTC9ZwSkgWpJ9mAf6UM2rH6XLv6LuEl42QapkM+YbKZAbH9plsKXFu7f0CDY0\ngwHWhTPJAgMBAAECggEAAimFv8Ga14IcDaXwawUfSSRbHIf51BLRaBBTvb79Jwrc\nl9rd1K1hDQE7HCZREFX6xlp0QF+oluEQ0i4GtbQPZJgZW2wJSiXswWJ/Fr9ZK/Da\njDwJjy83NcMb3IsFxtW7MOsaKP/K4bH/681wIhsFjQN5uf7DKq099SUxybSUyQhb\n1BKA2mcsuVemPf3skN0l9jG9Los9JivHYXt3ThESgqEhXIW9s5rd6JlkUFsoId4q\nWhRwoc/hOyjSPcEaYkY2c6bePlVmZOFPIH5j6sXVspcPLZwdWn06Evaoxb1XVl16\nUSmsNsre3Cy+e6oRC2EJ3BkmuKGEc1NlI4EcshxGMQKBgQDzMn9XVoC1cuGWH090\n77YbLYegvT6JzeglW0TShKxkghafQi9sQgFPqy99WzOQnqJ4q8p6jn4OOqB2Pdue\n6PhN32PJGfRY+t4Fq2XE3/cJkVHZFRjKhQzghPDdqxYHS/bxPY3N4Mz1iNjPO+5Q\nU9/xM71Aivbk3Ddtfh2yNp1NGQKBgQC3QoUaHpJ0yqmVOHpaorWxdyulTgCNumHT\nFYXLQjlfZJt3aqZijiC6/XwDtY2UMQmYGR3hCQ3fH/GgYeNYsgTQ6rx6djtqWbt5\nXABd2efUGu0L3TkQmOZG2x7hv9/DoDtSu/NLsiCnhUNqzzhrkzdGxX6+cmFSXU+E\neiG9QPFCMQKBgQDFCrYIImsYGKNUCbxMB2hprsMD5jDEYFNl6QPi+WHf8VK46FwZ\n/4SmcxGAJKOr2gvTb4UXNVpG1xNpmgbWQvXjykpEBsZmTaQTveIv2DKEyvwgwaob\ndB+RzcSGJXcspEzI+tFo7GnDyoO3rFwTM1HvULdWkwElPpOeIB+ZZAyhCQKBgQCu\ngTNJie8gM5OEOoGYKPQnBzmScVJpox9f51C+GlOTmLPJ5M6HbpuQM6yRw6ILiR5/\nrPscvIhu/XYSqOPaI7oeTkgnvMobHVM93vOiasss2G79Ky0Ztt8gfatMgG9NUxjq\nUXr9i6M4oddur+Aj3811IL7uDvDJg30iw0G5e0vBIQKBgGsmNLeGIpGTXDW/HsMD\nx8GC1EgpGd/CM+2Spl/E3Vn5XozjY/u5HL2y8g582AXkeJfn0EKeCmfZ03N8+ijT\njLlF+6T/I+VHtKdmjuq9R4Xpc6pKCWgILqyPI/vPb5hrC4vUvhjOnMOD4looLPeP\nqgzbv6US1FaJVz+/MJl3oFsa\n-----END PRIVATE KEY-----\n",
+  "client_email": "hate-speech@hate-speach.iam.gserviceaccount.com",
+  "client_id": "106737961965332482159",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hate-speech%40hate-speach.iam.gserviceaccount.com"
+}
