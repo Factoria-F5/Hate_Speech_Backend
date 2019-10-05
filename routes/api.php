@@ -17,6 +17,10 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
+<<<<<<< HEAD
 Route::resource('CheckTestController');
 
 //Route::post('CheckTest','CheckTestController@')
+=======
+Route::resource('CheckTestController');
+>>>>>>> api_test
